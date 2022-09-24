@@ -1,0 +1,37 @@
+1. El nodo raiz es el A
+
+2.Hay 7 caminos de longitud 3: {ABFG;BFGH;ACJK,AENP,AENQ,CJKL,CJKM}
+
+3.No lo es
+
+4.Los nodos ancentros de k son {(K,K);(J,K);(C,K);(A,K)}
+
+5.Los nodos ancestros propios de N son{A,E}
+
+6.M no tiene descendientes
+
+7.Los nodos hojas son {H;I;L;M;P;Q}
+
+8.La altura del nodo C es 3
+
+9.La altura del arbol es 4
+
+10.La profundidad del nodo C es 1
+
+11.El hermano a la derecha de D es E
+
+12.No son hermanos
+
+13.Si, lo esta
+
+14.No, es un descendiente
+
+15.A su izquierda: {B,F,G,H,I}. A su derecha {D,E,N,P,Q}
+
+16.A tiene 4 hijos
+
+17.Preorden: (ABFGHCIJKLMDENPQ)
+   Postorden: (HGFBILMKJCDPQNEA)
+   Inorden: (HGFBAICLKMJDPNQE)
+
+
